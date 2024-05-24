@@ -19,8 +19,12 @@ Getting Started:
 
 Prerequisites
 
-1-Python 3.x
+1-Python 
+
 2-pandas
+
 3-numpy
+
 4-scikit-learn
+
 5-tensorflow
